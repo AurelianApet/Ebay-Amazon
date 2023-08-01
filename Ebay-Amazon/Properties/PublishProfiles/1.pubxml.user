@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>E:\WebSite</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/AmazonProductAdvtApiClient.dll">
+      <publishTime>01/28/2016 19:36:22</publishTime>
+    </File>
+    <File Include="bin/Ebay-Amazon.dll">
+      <publishTime>03/05/2016 22:01:01</publishTime>
+    </File>
+    <File Include="bin/eBay.Service.dll">
+      <publishTime>09/23/2015 17:29:42</publishTime>
+    </File>
+    <File Include="bin/eBay.Service.SDK.Attribute.dll">
+      <publishTime>09/23/2015 17:29:40</publishTime>
+    </File>
+    <File Include="bin/Microsoft.Web.Services3.dll">
+      <publishTime>03/02/2016 06:37:42</publishTime>
+    </File>
+    <File Include="bin/Samples.Helper.dll">
+      <publishTime>09/23/2015 17:29:44</publishTime>
+    </File>
+    <File Include="bin/SWebAgent.dll">
+      <publishTime>10/24/2008 16:51:04</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>02/04/2016 18:02:14</publishTime>
+    </File>
+    <File Include="download.aspx">
+      <publishTime>02/01/2016 22:00:33</publishTime>
+    </File>
+    <File Include="filedownload.aspx">
+      <publishTime>02/02/2016 00:21:15</publishTime>
+    </File>
+    <File Include="jquery-1.10.2.js">
+      <publishTime>02/04/2016 15:03:47</publishTime>
+    </File>
+    <File Include="jquery-ui.js">
+      <publishTime>02/04/2016 15:04:26</publishTime>
+    </File>
+    <File Include="progressbar.css">
+      <publishTime>09/23/2013 07:06:04</publishTime>
+    </File>
+    <File Include="progressbar.js">
+      <publishTime>11/02/2013 04:09:44</publishTime>
+    </File>
+    <File Include="progressbar.min.js">
+      <publishTime>11/02/2013 04:20:34</publishTime>
+    </File>
+    <File Include="scrapAmazonAjax.aspx">
+      <publishTime>01/31/2016 13:27:03</publishTime>
+    </File>
+    <File Include="sendUrlAjax.aspx">
+      <publishTime>01/29/2016 16:41:19</publishTime>
+    </File>
+    <File Include="Site1.Master">
+      <publishTime>01/30/2016 16:30:01</publishTime>
+    </File>
+    <File Include="smoot-jquery-ui.css">
+      <publishTime>02/04/2016 15:19:28</publishTime>
+    </File>
+    <File Include="Style.css">
+      <publishTime>02/04/2016 15:19:50</publishTime>
+    </File>
+    <File Include="urlfooterView.aspx">
+      <publishTime>02/03/2016 11:43:27</publishTime>
+    </File>
+    <File Include="URLView.aspx">
+      <publishTime>01/23/2016 16:55:18</publishTime>
+    </File>
+    <File Include="ViewDetailInfo.aspx">
+      <publishTime>01/22/2016 20:59:28</publishTime>
+    </File>
+    <File Include="ViewUrlAjax.aspx">
+      <publishTime>01/30/2016 20:21:49</publishTime>
+    </File>
+    <File Include="ViewUrls.aspx">
+      <publishTime>03/03/2016 19:25:57</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>03/05/2016 22:01:15</publishTime>
+    </File>
+    <File Include="WebForm1.aspx">
+      <publishTime>01/30/2016 20:58:09</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
